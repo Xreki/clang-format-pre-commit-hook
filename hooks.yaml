@@ -1,0 +1,5 @@
+- id: clang-formater
+  name: clang-formater
+  entry: clang-format -i
+  language: system
+  files: \.(h|hpp|cc|c|cpp)
