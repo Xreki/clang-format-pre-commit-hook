@@ -2,4 +2,4 @@
   name: clang-formater
   entry: clang-format -i
   language: system
-  files: \.(h|hpp|cc|c|cpp)
+  files: \.(h|hpp|cc|c|cpp)$
